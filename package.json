@@ -1,0 +1,20 @@
+{
+  "name": "solid-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^3.12.6",
+    "typescript": "^5.0.4",
+    "vitest": "^0.30.0"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  }
+}
